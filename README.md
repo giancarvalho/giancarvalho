@@ -5,7 +5,7 @@
 - 📚 I have a background in linguistics and education
 - 🧑‍🤝‍🧑 I'm looking to collaborate on open source projects
 - ✨ Pronouns: He / His
-- 🚀 Fun-fact: My favorite book is the unforgettable classic [The Last Unicorn](https://www.goodreads.com/book/show/29127.The_Last_Unicorn)
+- ⚡ Fun-fact: My favorite book is the unforgettable classic [The Last Unicorn](https://www.goodreads.com/book/show/29127.The_Last_Unicorn)
 
 
 ## Technologies 
