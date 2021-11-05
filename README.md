@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently in a Full-Stack WebDev training program at [Driven Education](https://www.driven.com.br/#sobre-nos), which primarily focuses on React and Node.js
 - 🧪 I'm currently learning End-to-end Javascript Testing
-- 📚 I have a background in linguistics and education
+- 📚 I also have a background in linguistics and education
 - 🧑‍🤝‍🧑 I'm looking to collaborate on open source projects
 - ✨ Pronouns: He / His
 - 🌶️ Fun-fact: I used to run an online store of spices for my family's business
