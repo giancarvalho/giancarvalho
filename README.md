@@ -30,8 +30,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](http://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![NPM](https://img.shields.io/badge/NPM-FFF?style=flat-square&logo=npm)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-4EAA25?style=flat-square&logo=linux&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=flat-square&logo=ESLint)
