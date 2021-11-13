@@ -46,7 +46,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giancarvalho&layout=compact&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Gian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=giancarvalho&layout=compact&theme=synthwave)](https://wakatime.com/@giancarvalho)
 
 ## Want to get in touch?
 
