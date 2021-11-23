@@ -29,11 +29,8 @@
 #### **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](http://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-4EAA25?style=flat-square&logo=linux&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=flat-square&logo=ESLint)
-![husky](https://img.shields.io/badge/Husky-b0b0d5?style=flat-square)
 
 
 
