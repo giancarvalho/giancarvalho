@@ -1,6 +1,6 @@
 # **Hello, internet! 👋 I'm Gian**
 
-- 🔭 I'm currently in a Full-Stack WebDev training program at [Driven Education](https://www.driven.com.br/#sobre-nos), which primarily focuses on React and Node.js
+- 🔭 I'm currently in a Full-Stack WebDev training program at [Driven Education](https://www.driven.com.br/#sobre-nos)
 - 🧪 I'm currently learning Typescript and backend architectures
 - 📚 I also have a background in linguistics and education
 - ✨ Pronouns: He / His
@@ -33,10 +33,22 @@
 ![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=flat-square&logo=ESLint)
 
 ## Stats
-
+<details>
+  <summary>Github Stats</summary>
+ 
+  </br>
+  
 ![Gian's GitHub stats](https://github-readme-stats.vercel.app/api?username=giancarvalho&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giancarvalho&layout=compact&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+ </details>
+ <details>
+  <summary>Top Languages</summary>
+    </br>
+    
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giancarvalho&layout=compact&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </details>
+
 
 ## Want to get in touch?
 
