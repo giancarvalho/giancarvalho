@@ -1,11 +1,10 @@
 # **Hello, internet! 👋 I'm Gian**
 
-- 🔭 I'm currently in a Full-Stack WebDev training program at [Driven Education](https://www.driven.com.br/#sobre-nos)
-- 🧪 I'm currently learning Typescript and backend architectures
-- 📚 I also have a background in linguistics and education
-- ✨ Pronouns: He / His
-- 🌶️ Fun-fact: I used to run an online store of spices for my family's business
+I am a software developer based in Brazil. I began studying programming in 2019 out of curiosity for the [NLTK](https://www.nltk.org), but only in 2021 I took up web dev, first with Rails and then with Javascript, React and Node. Some facts about me are:
 
+- ✨ My pronouns are He / His
+- 📚 I'm currently learning Next
+- 🔭 I studied at [Driven Education](https://www.driven.com.br/#sobre-nos)
 
 ## Technologies 
 
