@@ -1,6 +1,8 @@
 # **Hello, internet! 👋 I'm Gian**
 
-I am a software developer based in Brazil. I began studying programming in 2019 out of curiosity for the [NLTK](https://www.nltk.org), but only in 2021 I took up web dev, first with Rails and then with Javascript, React and Node. Some facts about me are:
+I am a software developer based in Brazil. I began studying programming in 2019 out of curiosity for the [NLTK](https://www.nltk.org), but only in 2021 I took up web dev, first with Rails and then with Javascript, React and Node. 
+
+Some facts about me are:
 
 - ✨ My pronouns are He / His
 - 📚 I'm currently learning Next
